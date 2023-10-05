@@ -1,4 +1,4 @@
-# Project Title
+# A To-Do User Interface.
 
 The Todo App UI is a modern and intuitive interface for task management. It features a list of tasks color-coded by priority and a pie chart for quick insights. This sleek design ensures efficient navigation and a user-friendly experience. Perfect for those seeking a streamlined task overview.
 
