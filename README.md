@@ -4,9 +4,9 @@ The Todo App UI is a modern and intuitive interface for task management. It feat
 
 ### Prerequisites
 
-*Node.js: Ensure you have Node.js installed. If not, download and install it from Node.js official website.
-*Yarn Package Manager: This project uses Yarn for dependency management. If you don't have Yarn installed, you can get it by following the instructions here.
-*Git (Optional): If you're planning to clone the project repository, it's a good idea to have Git installed on your machine. Download and install it from Git's official site.
+Node.js: Ensure you have Node.js installed. If not, download and install it from Node.js official website.
+Yarn Package Manager: This project uses Yarn for dependency management.
+Git (Optional): If you're planning to clone the project repository.
 
 ### Installation
 
